@@ -53,7 +53,6 @@ public class HTMLGenerator {
                         + "</p>");
             }
             //Fin de alternativa 3
-
             pw.println("</div>");
             pw.println("</body></html>");
             //Cierre de fichero
